@@ -3,7 +3,6 @@ DEMO-> (https://mendapararitik.github.io/JourneyJoy/) JourneyJoy Project (Using 
 
 Here I used Html, Css & javascript To create the front end part of the website and for storing the Contact Information in the Database we used php as a backend language.
 The HomePage of the Website is with main.html file.
-
 ![image](https://github.com/mendapararitik/JourneyJoy/assets/136411698/9fd4e8ee-d7af-4a45-b34b-bf7376583e96)
 Other Screenshots of the Pages are.
 ![image](https://github.com/mendapararitik/JourneyJoy/assets/136411698/844ac234-d347-43e0-9167-e62a33762d58)
